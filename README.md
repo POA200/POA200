@@ -1,5 +1,5 @@
 # 💫 Hello 👋🏼 I'm Peter,
-🔭 I’m currently working on Blocklift <br>🌱 I’m currently learning Javascript, Typescript, Node JS, Stacks JS, Clarity,<br>👯 I’m looking to collaborate on Backend Projects<br>💬 Ask me about HTML, CSS, REACT, Tailwind css<br>📫 How to reach me: ipeter1010x@gmail.com<br>⚡ Fun fact I am very easy to work with
+🔭 I’m currently working on Stuffs <br>🌱 I’m currently learning Javascript, Typescript, Node JS, Stacks JS, Clarity,<br>👯 I’m looking to collaborate on Backend Projects<br>💬 Ask me about HTML, CSS, REACT, Tailwind css<br>📫 How to reach me: ipeter1010x@gmail.com<br>⚡ Fun fact I am very easy to work with
 
 
 ## 🌐 Socials:
