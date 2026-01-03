@@ -1,5 +1,5 @@
-# 💫 Hello 👋🏼 I'm Peter,
-🔭 I’m currently working on Building my backend knowledge<br>🌱 I’m currently learning Back end <br>👯 I’m looking to collaborate on Backend Projects<br>💬 Ask me about HTML, CSS, REACT, Tailwind CSS, next js, JavaScript , typescript<br>📫 How to reach me: ipeter1010x@gmail.com<br>⚡ Fun fact I am very easy to work with
+# Hello 👋🏼 I'm Peter,
+🔭 I’m currently working on backend knowledge<br>🌱 I’m currently learning Backend <br>👯 I’m looking to collaborate on Backend Projects<br>💬 Ask me about HTML, CSS, REACT, Tailwind CSS, next js, JavaScript , typescript<br>📫 How to reach me: ipeter1010x@gmail.com<br>⚡ Fun fact I am very easy to work with
 
 
 ## 🌐 Socials: [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iPeter_crx)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ipeter1010x@gmail.com) 
